@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Built-By: appleapple
+Build-Jdk: 9
+Implementation-Title: model-jwt
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.cabbuddies.library
+Implementation-URL: http://maven.apache.org
+Created-By: Maven Integration for Eclipse
+
